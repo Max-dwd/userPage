@@ -1,4 +1,4 @@
-![1](AI.webp#300)![2](DL.png#300)
+![1](AI.jpg)![2](DL.png)
 # Intro
 Hi, I am Max, CS student taking this CSE 110. I like learn more about **AI!** 
 ## Some fun facts about computer science
