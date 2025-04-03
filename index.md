@@ -12,7 +12,7 @@ print("Hello World!") #  Python NO.1
 
 # More About Me
 [My favorite video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley), probably...
-Also, I deeply like [CS](##Some-fun-facts-about-computer-science)
+Also, I deeply like [CS](#Intro)
 
 # More?
 - Like to go to gym! 💪
