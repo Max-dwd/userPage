@@ -1,15 +1,17 @@
-[Hello World](HW.jpg)
+![1](AI.webp)![2](DL.png)
 # Intro
 Hi, I am Max, CS student taking this CSE 110. I like learn more about **AI!** 
 ## Some fun facts about computer science
-> [!info]
+
 > Computer Science is no more about computers than astronomy is about telescopes. — EdsgerDijkstra, 1970
+
+[Hello World](HW.jpg)
 ```python
-print("Hello World!") # yes, I like Python
+print("Hello World!") #  Python NO.1
 ```
 # More About Me
 [My favorite video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley), probably...
-Also, I deeply like [CS!](## Some fun facts about computer science)
+Also, I deeply like [CS](##Some-fun-facts-about-computer-science)
 
 # More?
 - Like to go to gym! 💪
