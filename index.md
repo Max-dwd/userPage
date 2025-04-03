@@ -1,4 +1,4 @@
-![1](AI.jpg)![2](DL.png)
+![1](AI.jpg)![2](DL1.png)
 # Intro
 Hi, I am Max, CS student taking this CSE 110. I like learn more about **AI!** 
 ## Some fun facts about computer science
@@ -9,6 +9,7 @@ Hi, I am Max, CS student taking this CSE 110. I like learn more about **AI!**
 ```python
 print("Hello World!") #  Python NO.1
 ```
+
 # More About Me
 [My favorite video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley), probably...
 Also, I deeply like [CS](##Some-fun-facts-about-computer-science)
