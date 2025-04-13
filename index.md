@@ -1,18 +1,17 @@
-![1](AI.jpg)![2](DL1.png)
+![1](AI.jpg =250x250)![2](DL1.png =250x250)
 # Intro
-Hi, I am Max, CS student taking this CSE 110. I like learn more about **AI!** 
-## Some fun facts about computer science
+Hi, I am Max, third-year CS student. My interest is to think about **human mind and AI**.
 
+## Some fun facts about computer science
 > Computer Science is no more about computers than astronomy is about telescopes. — EdsgerDijkstra, 1970
 
-[Hello World](HW.jpg)
 ```python
-print("Hello World!") #  Python NO.1
+print("Hello World!") 
 ```
 
 # More About Me
 [My favorite video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley), probably...
-Also, I deeply like [CS](#Intro)
+I like [CS](#Intro) because it satisfies my curiosity!
 
 # More?
 - Like to go to gym! 💪
@@ -20,8 +19,8 @@ Also, I deeply like [CS](#Intro)
 - Of course, studying 💯
   - Let's go
 
-# Things get done
+# I wish to ...
 - [x] Take care of myself
-- [x] File 2024 Tax
-- [ ] Homeworks
+- [x] Retain my freedom, stemming from first principle
+- [ ] Surrender to tenets untested by critical thought
 
