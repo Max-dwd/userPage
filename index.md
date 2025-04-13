@@ -22,5 +22,5 @@ I like [CS](#Intro) because it satisfies my curiosity!
 # I wish to ...
 - [x] Take care of myself
 - [x] Retain my freedom stemming from first principle
-- [ ] Surrender to tenets untested by critical thought
+- [ ] Surrender to tenets untested by critical thoughts
 
