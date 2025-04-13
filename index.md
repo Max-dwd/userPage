@@ -1,4 +1,4 @@
-![1](AI.jpg|width=100)![2](DL1.png|width=100)
+![1](AI.jpg)![2](DL1.png)
 # Intro
 Hi, I am Max, third-year CS student. My interest is to think about **human mind and AI**.
 
